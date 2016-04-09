@@ -1,0 +1,387 @@
+#SelectedPokemonId {
+    position: fixed;
+    top: 160px;
+    right: 10%;
+    border: 1px solid gray;
+    border-radius: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 35px;
+}
+
+
+.cdiv {
+    width: 100px;
+    border: black solid 1px;
+}
+
+#header {
+    padding: 0 5px;
+    width: 400px;
+    margin-left: 35%;
+    margin-top: 10px;
+    justify-content: center;
+    border: black solid 1px;
+    border-radius: 4px;
+}
+
+#header p {
+    padding-top: 10px;
+}
+
+img {
+    height : 120px;
+}
+.left-cataloge{
+
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 5%;
+    padding-right: -5px;
+    width: 60%;
+}
+
+.shityClass {
+    width: 30%;
+    display: inline-block;
+    border: 1px solid gray;
+    margin-left: 3px;
+    margin-top: 3px;
+    border-radius: 7px;
+}
+
+.pokemonimage {
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.pokemonimage1 {
+    margin-top: 10px;
+    margin-left: 55px;
+    height: 140px;
+
+}
+
+ th, td {
+    border: 1px solid black;
+    padding: 5px;
+     width: 30px;
+}
+
+.name {
+    margin-left: 92px;
+}
+
+.name1 {
+    margin-left: 92px;
+    font-weight: bold;
+}
+
+.poison {
+    border: 1px solid gray;
+    background-color: violet;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.grass {
+    border: 1px solid gray;
+    background-color: green;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.fire {
+    border: 1px solid gray;
+    background-color: orange;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.flying {
+    border: 1px solid gray;
+    background-color: blueviolet;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.rock {
+    border: 1px solid gray;
+    background-color: violet;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.steel {
+    border: 1px solid gray;
+    background-color: #c5d6d2;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.normal {
+    border: 1px solid gray;
+    background-color: #dee8c5;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.Normal {
+    border: 1px solid gray;
+    background-color: #dee8c5;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.ghost {
+    border: 1px solid gray;
+    background-color: #d6bbd6;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.fighting {
+    border: 1px solid gray;
+    background-color: red;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.Fighting {
+    border: 1px solid gray;
+    background-color: red;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.psychic {
+    border: 1px solid gray;
+    background-color: #96c9e8;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.bug {
+    border: 1px solid gray;
+    background-color: greenyellow;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.fairy {
+    border: 1px solid gray;
+    background-color: pink;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.ice {
+    border: 1px solid gray;
+    background-color: #65cee8;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+.dark {
+    border: 1px solid gray;
+    background-color: #448397;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.electric {
+    border: 1px solid gray;
+    background-color: yellow;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+.ground {
+    border: 1px solid gray;
+    background-color: #c6e8a3;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.water {
+    border: 1px solid gray;
+    background-color: deepskyblue;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.Rock {
+    border: 1px solid gray;
+    background-color: #d6804c;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.Bug {
+    border: 1px solid gray;
+    background-color: greenyellow;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.dragon {
+    border: 1px solid gray;
+    background-color: #d61b13;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.Fire {
+    border: 1px solid gray;
+    background-color: orange;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.Water{
+    border: 1px solid gray;
+    background-color: deepskyblue;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.Grass {
+    border: 1px solid gray;
+    background-color: green;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+.Electric {
+    border: 1px solid gray;
+    background-color: yellow;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+.Ice {
+    border: 1px solid gray;
+    background-color: #65cee8;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.Dragon {
+    border: 1px solid gray;
+    background-color: #d61b13;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.Psychic{
+    border: 1px solid gray;
+    background-color: #96c9e8;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+
+.Unknown {
+    border: 1px solid gray;
+    background-color: grey;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 7px;
+}
+#click {
+    display: block;
+    margin-top: 15px;
+    margin-left: 13%;
+    width: 570px;
+    height: 50px;
+    background-color: #8cc5d6;
+    border-radius: 7px;
+}
+
+.mainTable {
+    width: 80%;
+}
